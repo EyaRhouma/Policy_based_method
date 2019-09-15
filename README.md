@@ -24,4 +24,12 @@ In this repository we're trying to solve 2 openAI Gym's env using two policy bas
 
 ![Trained Agent][image1]
 
+## Additionals
+
+For more well explained methods for policy based method here's a good blog:
+
+http://kvfrans.com/simple-algoritms-for-solving-cartpole/
+
+--> corresponding github: https://github.com/kvfrans/openai-cartpole
+
 
